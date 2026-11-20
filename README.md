@@ -15,7 +15,7 @@ The Loan Default Analysis project focuses on analyzing banking and loan repaymen
 
 ## 🛠️ Tools & Technologies
 
-- **SQL Server:** Data extraction, joins, aggregations, CTEs, subqueries, and 41 analytical business questions.
+- **SQL Server:** Data extraction, joins, aggregations, CTEs, subqueries, and 40 analytical business questions.
 - **Power BI:** Data modeling, DAX measures, KPI cards, and interactive dashboards.
 
 ## 📂 Dataset
