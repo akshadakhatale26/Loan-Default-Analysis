@@ -64,4 +64,3 @@ The analysis helps identify potential risk indicators, monitor loan portfolio pe
 ## ⚠️ Disclaimer
 
 This project uses synthetic educational data and does not contain actual customer or banking records. The findings represent descriptive analysis and are intended for learning and portfolio demonstration purposes only.
-
