@@ -64,3 +64,8 @@ The analysis helps identify potential risk indicators, monitor loan portfolio pe
 ## ⚠️ Disclaimer
 
 This project uses synthetic educational data and does not contain actual customer or banking records. The findings represent descriptive analysis and are intended for learning and portfolio demonstration purposes only.
+
+## AI Assistance
+Used AI to generate analytical business questions.
+Leveraged AI for SQL query debugging and optimization.
+Validated AI-generated suggestions to ensure accuracy.
